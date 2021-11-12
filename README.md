@@ -2,4 +2,4 @@
 #Hello my first repo
 
 
-It is markdown project. 
+It is a markdown project. 
