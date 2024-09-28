@@ -18,8 +18,4 @@ This project was conducted as part of the **Intro to Data Science (601)** course
 2. **Model Year Analysis**: Trends were observed regarding the correlation between vehicle model year and the likelihood of fatal accidents.
 3. **Manufacturer Insights**: Recommendations were provided for manufacturers to enhance product quality based on the identified patterns.
 
-## How to Run the Project:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/maryland-car-crashes-analysis.git
 
